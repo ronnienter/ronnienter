@@ -3,15 +3,14 @@
 <h3 align="center">💻 A passionate cybersecurity researcher and hacker!</h3>
 
 <p align="center">
-  <a href="mailto:b00073615@aus.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/deadpackets"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:DeadPackets#5317"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
-  <a href="https://instagram.com/lucidgamer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-  <a href="https://twitter.com/dead_packets"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/youssef-awad/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCdNjReL5xxOOvPtnnUgt_hQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.twitch.tv/deadpackets"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" /></a>
-  <a href="https://open.spotify.com/user/r876i9nhmpdg2qe0wrc9rsace?si=59a116007ba54bce"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" /></a>
+  <a href="mailto:ronnienter@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ronnienter"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://instagram.com/ronskwkr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/ronskwkr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/AJ/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/UC6l9_HaXquFLvwftD-vkc-w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/ronnienter"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" /></a>
+  <a href="https://open.spotify.com/user/3153wddnna32moviova4utewvcui?si=70f80f36143f4ff1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" /></a>
 </p>
 
 ---
@@ -23,7 +22,7 @@
 - <img src="https://emojis.slackmojis.com/emojis/images/1596524176/9908/blobhelp.png" width="16" /> Graduate of Computer Science from [ABUAD](https://www.abuad.edu.ng)
 - <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> Junior Penetration Tester at [HackerOne](https://hackerone)
 - <img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?" width="16" /> I enjoy playing CTFs and hacking (or breaking) things
-- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/heart-pixel-spin.gif" width="16" /> I absolutely love DevOps and building solutions
+- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/heart-pixel-spin.gif" width="16" /> I absolutely love Analysis and building solutions
 - <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="16" /> Spreading knowledge in cybersec is one of my many passions
 - <img src="https://emojis.slackmojis.com/emojis/images/1620205202/35987/question-block.gif?" width="16" /> You can contact me anytime for questions, I love answering them
 - <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif" width="16" /> Forever faithful to Python & Docker <3
@@ -78,7 +77,7 @@
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=r876i9nhmpdg2qe0wrc9rsace&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=r876i9nhmpdg2qe0wrc9rsace&cover_image=false&theme=default" />
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3153wddnna32moviova4utewvcui&cover_image=false&theme=default" />
   </a>
 </p>
 </p>
