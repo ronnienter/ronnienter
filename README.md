@@ -19,7 +19,7 @@
 
 <img align="right" src="me.jpg" width="300" />
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1596524176/9908/blobhelp.png" width="16" /> Graduate of Computer Science from [ABUAD](https://www.abuad.edu.ng)
+- <img src="https://emojis.slackmojis.com/emojis/images/1596524176/9908/blobhelp.png" width="16" /> Graduate of Computer Science
 - <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> Junior Penetration Tester at [HackerOne](https://hackerone)
 - <img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?" width="16" /> I enjoy playing CTFs and hacking (or breaking) things
 - <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/heart-pixel-spin.gif" width="16" /> I absolutely love Analysis and building solutions
