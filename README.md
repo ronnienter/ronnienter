@@ -65,13 +65,6 @@
 </p>
 <p align="center">Top 7% 7,000 points!</p>
 
-## `$> git show stats`
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronnie.jehu&show_icons=true&cache_seconds=1800&count_private=true&theme=react" alt="ronnie.jehu" />
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ronnie.jehu&theme=react" alt="ronnie.jehu" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ronnie.jehu&theme=nord" />
-</p>
 
 ## `$> spotify_cli --currently-playing`
 
