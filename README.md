@@ -17,7 +17,7 @@
 
 ## `$> whoami`
 
-<img align="right" src="me.jpg" width="300" />
+<img align="right" src="Linkedin PP.jpeg" width="300" />
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1596524176/9908/blobhelp.png" width="16" /> Graduate of Computer Science
 - <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> Security Researcher at [HackerOne](https://hackerone)
