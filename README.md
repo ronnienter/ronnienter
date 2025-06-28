@@ -25,7 +25,7 @@
 - <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/heart-pixel-spin.gif" width="16" /> I love Analysis and building solutions
 - <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="16" /> Spreading knowledge in cybersecurity is one of my many passions
 - <img src="https://emojis.slackmojis.com/emojis/images/1620205202/35987/question-block.gif?" width="16" /> You can contact me anytime for questions
-- <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif" width="16" /> Faitthful to Pyython & Docker <3
+- <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif" width="16" /> Faitthful to Python & Docker <3
 - ⭐ Aspiring Cyber Security Expert
 
 ## `$> ls -la projects/`
