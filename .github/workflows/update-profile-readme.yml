@@ -1,24 +1,22 @@
-name: Update profile README
+name: Update README timestamp
 on:
   schedule:
-    - cron: '0 */3 * * *'  # every 3 hours
+    - cron: '0 */3 * * *'
   workflow_dispatch:
 
 jobs:
-  update_profile:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
-      - name: Update timestamp
+      - name: Update README timestamp
         run: |
-          timestamp=$(date -u '+%A, %B %d %Y, %H:%M UTC')
-          sed -i "s|<!--TIMESTAMP-->|$timestamp|" README.md
+          TIMESTAMP=$(date -u "+%A, %B %d, %Y at %H:%M UTC")
+          sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP-->${TIMESTAMP}|g" README.md
 
-      - name: Commit and push if changed
+      - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git diff --quiet || (git add README.md && git commit -m "🟢 Auto update timestamp" && git push)
-          
+          git diff --quiet || (git add README.md && git commit -m "🔄 README updated: ${TIMESTAMP}" && git push)
