@@ -69,12 +69,13 @@
 ## `$> spotify_cli --currently-playing`
 
 <p align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=r876i9nhmpdg2qe0wrc9rsace&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3153wddnna32moviova4utewvcui&cover_image=false&theme=default" />
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=3153wddnna32moviova4utewvcui&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=3153wddnna32moviova4utewvcui&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" />
   </a>
 </p>
-</p>
+
 
 <p align="center">
-  <i>This README generates every 3 hours. It was last generated Wednesday, February 14th 2024, 3:59:30.</i>
+  <i>This README generates every 3 hours. It was last generated {{GENERATION_TIMESTAMP}}.</i>
 </p>
+
