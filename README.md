@@ -20,7 +20,7 @@
 <img align="right" src="Linkedin PP.jpeg" width="300" />
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1596524176/9908/blobhelp.png" width="16" /> Graduate of Computer Sciencee
-- <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> Security Researcher at [HackerOne](https://hackerone)
+- <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> IT Support at [CodifyHub](https://codifyhub.ng)
 - <img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?" width="16" /> I enjoy playinng CTFs and hacking things
 - <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/heart-pixel-spin.gif" width="16" /> I love Analysis and building solutions
 - <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="16" /> Spreading knowledge in cybersecurity is one of my many passions
