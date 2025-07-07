@@ -7,7 +7,7 @@
   <a href="mailto:ronnienter"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" /></a>
 <!--   <a href="https://instagram.com/ronskwkr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a> -->
   <a href="https://twitter.com/ronskwkr"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/AJ/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/jayronnie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UC6l9_HaXquFLvwftD-vkc-w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" /></a>
   <a href="https://www.twitch.tv/ronnienter"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" /></a>
   <a href="https://open.spotify.com/user/3153wddnna32moviova4utewvcui?si=70f80f36143f4ff1"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white" /></a>
