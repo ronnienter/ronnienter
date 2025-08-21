@@ -19,14 +19,14 @@
 
 <img align="right" src="Linkedin PP.jpeg" width="300" />
 
-- <img src="https://emojis.slackmojis.com/emojis/images/1596524176/9908/blobhelp.png" width="16" /> Graduate of Computer Sciencee
-- <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> IT Support at [CodifyHub](https://codifyhub.ng)
+- <img src="https://emojis.slackmojis.com/emojis/images/1596524176/9908/blobhelp.png" width="16" /> Graduate of Computer Science
+- <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif" width="16" /> Cloud Support at [CodifyHub](https://codifyhub.ng)
 - <img src="https://emojis.slackmojis.com/emojis/images/1579644131/7581/elmofire.gif?" width="16" /> I enjoy playinng CTFs and hacking things
-- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/heart-pixel-spin.gif" width="16" /> I love Analysis and building solutions
-- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="16" /> Spreading knowledge in cybersecurity is one of my many passions
+- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/heart-pixel-spin.gif" width="16" /> I love DevOps and building solutions
+- <img src="https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/matrix.gif" width="16" /> Spreading knowledge in cloud/cybersec is one of my many passions
 - <img src="https://emojis.slackmojis.com/emojis/images/1620205202/35987/question-block.gif?" width="16" /> You can contact me anytime for questions
 - <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif" width="16" /> Faithful to Python & Docker <3
-- ⭐ Aspiring Cyber Security Expert
+- ⭐ Aspiring Cloud/cyber Security Expert
 
 ## `$> ls -la projects/`
 
@@ -42,19 +42,25 @@
 #### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,regex" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,py,bash,md,regex" />
 </p>
 
 #### Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,nginx,postgres" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,nginx,sqlite,postgres" />
 </p>
 
 #### Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,flask" />
+</p>
+
+#### DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,gcp,github,githubactions" />
 </p>
 
 
@@ -63,7 +69,7 @@
 <p align="center">
   <a href="https://tryhackme.com/p/ronnie.jehu"><img src="tryhackme.png" alt="TryHackMe" width="400" /></a>
 </p>
-<p align="center">Top 7% 7,000 points!</p>
+<p align="center">Top 1% 10,000 points!</p>
 
 
 ## `$> spotify_cli --currently-playing`
