@@ -67,9 +67,10 @@
 ## `$> tryhackme --rank`
 
 <p align="center">
-  <a href="https://tryhackme.com/p/ronnie.jehu"><img src="tryhackme.png" alt="TryHackMe" width="400" /></a>
+  <a href="https://tryhackme.com/p/ronnie.jehu">
+    <img src="https://www.tryhackme.com/badges/user/ronnie.jehu" alt="TryHackMe Badge" />
+  </a>
 </p>
-<p align="center">Top 1% 10,000 points!</p>
 
 
 ## `$> spotify_cli --currently-playing`
