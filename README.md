@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/ronnie.jehu">
-    <img src="./assets/tryhackme-badge.png" alt="TryHackMe Badge" width="400" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ronnie.jehu.png" alt="TryHackMe Badge" width="400" />
   </a>
 </p>
 <p align="center">Top 1% 10,000 points!</p>
