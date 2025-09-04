@@ -34,7 +34,7 @@
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![EasyRecon](https://img.shields.io/static/v1?label=&message=EasyRecon&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ronnienter/EasyRecon) [![sqli-lab](https://img.shields.io/static/v1?label=&message=sqli-lab%20&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ronnienter/sqli-lab) [![CrossScripter](https://img.shields.io/static/v1?label=&message=CrossSrcipter&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ronnienter/CrossScripter) [![Donation-Nation](https://img.shields.io/static/v1?label=&message=Donation-Nation&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/COE420Group4/Donation-Nation) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com) | [![SpotiChop](https://img.shields.io/static/v1?label=&message=SpotiChop&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ronnienter/SpotiChop) [![CrackTheHack](https://img.shields.io/static/v1?label=&message=CrackTheHack&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DeadPackets/CrackTheHack) [![EmailCheck](https://img.shields.io/static/v1?label=&message=EmailCheck&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DeadPackets/EmailCheck) [![HistoryThief](https://img.shields.io/static/v1?label=&message=HistoryThief&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DeadPackets/HistoryThief) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com) | [![SpotiChop](https://img.shields.io/static/v1?label=&message=SpotiChop&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ronnienter/SpotiChop) [![2048-game-CI/CD](https://img.shields.io/static/v1?label=&message=CrackTheHack&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ronnienter/aws-2048-cicd-pipeline) [![EmailCheck](https://img.shields.io/static/v1?label=&message=EmailCheck&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DeadPackets/EmailCheck) [![HistoryThief](https://img.shields.io/static/v1?label=&message=HistoryThief&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/DeadPackets/HistoryThief) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 ## `$> cat skills.txt`
@@ -42,7 +42,7 @@
 #### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css,py,bash,md,regex" />
+  <img src="https://skillicons.dev/icons?i=py,nodejs,html,bash,js,css,md,regex" />
 </p>
 
 #### Technologies
