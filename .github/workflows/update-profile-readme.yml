@@ -19,4 +19,4 @@ jobs:
           sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP-->${TIMESTAMP}|g" README.md
           git config user.name "ronnienter"
           git config user.email "ronnienter@gmail.com"
-          git diff --quiet || (git add README.md && git commit -m "🔄 README updated: ${TIMESTAMP}" && git push)
+          git diff --quiet || (git add README.md && git commit -m "🔄 README updated: ${TIMESTAMP}" && git pull --rebase && git push)
