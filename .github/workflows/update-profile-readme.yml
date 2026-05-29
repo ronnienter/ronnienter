@@ -1,6 +1,6 @@
 permissions:
   contents: write
-  
+
 name: Update README timestamp
 on:
   schedule:
@@ -11,17 +11,12 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - name: Update README timestamp
+      - name: Update and commit README
         run: |
           TIMESTAMP=$(date -u "+%A, %B %d, %Y at %H:%M UTC")
           sed -i "s|<!--TIMESTAMP-->.*|<!--TIMESTAMP-->${TIMESTAMP}|g" README.md
-
-      - name: Commit changes
-        run: |
           git config user.name "ronnienter"
           git config user.email "ronnienter@gmail.com"
           git diff --quiet || (git add README.md && git commit -m "🔄 README updated: ${TIMESTAMP}" && git push)
-
-          
